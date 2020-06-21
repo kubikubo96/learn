@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cc02502-46df-4d8f-b683-a18eaed5a2be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="1dcOoOlQDkA1aIIy3Smph4vIypn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learned/array" />
+      <recent name="$PROJECT_DIR$/learned" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cc02502-46df-4d8f-b683-a18eaed5a2be" name="Default Changelist" comment="" />
+      <created>1592721088931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592721088931</updated>
+      <workItem from="1592721090811" duration="10102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1603" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592722249881">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1603" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1592722249881" />
+    <state x="1940" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1592727080001">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1940" y="323" width="399" height="156" key="NewPhpFileDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1592727080001" />
+    <state x="1634" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1592722297451">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1634" y="31" width="1022" height="737" key="SettingsEditor/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1592722297451" />
+    <state x="1711" y="102" width="868" height="590" key="find.popup" timestamp="1592722230335">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1711" y="102" width="868" height="590" key="find.popup/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1592722230335" />
+    <state x="1809" y="174" key="run.anything.popup" timestamp="1592725794486">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1809" y="174" key="run.anything.popup/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1592725794486" />
+    <state x="1808" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1592730909753">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1808" y="89" width="672" height="678" key="search.everywhere.popup/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1592730909753" />
+  </component>
+</project>
